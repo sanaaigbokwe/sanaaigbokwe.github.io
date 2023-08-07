@@ -9,9 +9,7 @@
 ### Course Projects 
 
 #### 2021 UK Gender Pay Gap
-
-<object data="sanaaigbokwe/sanaaigbokwe.github.io/pdfs/421Project-smigbokw.pdf" width="1000" height="1000" type="application/pdf"></object>
-
+<img src="sanaaigbokwe/sanaaigbokwe.github.io/pdfs/421Project-smigbokw.pdf?raw=true"/>
 
 ---
 
