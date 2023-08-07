@@ -10,7 +10,8 @@
 
 #### 2021 UK Gender Pay Gap
 
-<a href="https://github.com/sanaaigbokwe/sanaaigbokwe.github.io/blob/master/pdf/421Project-smigbokw.pdf" class="image fit" ><img src="pdf/421Project-smigbokw.pdf" alt=""></a>
+<img src="images/421Project-smigbokw?raw=true"/>
+
 ---
 
 ### Category Name 2
