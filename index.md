@@ -10,4 +10,4 @@
 
 #### 2021 UK Gender Pay Gap
 
-<img src="./images/421Project-smigbokw.pdf"/>
+![Data Visualization](images/421Project-smigbokw.jpg)
