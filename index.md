@@ -9,7 +9,7 @@
 ### Course Projects 
 
 [2021 UK Gender Pay Gap](/pdf/sample_presentation.pdf)
-[Data Visulization](pdf/421Project-smigbokw.pdf)
+![Data Visulization](pdf/421Project-smigbokw.pdf)
 
 ---
 
