@@ -2,11 +2,14 @@
 
 ---
 
-### Course Projects 
+## Personal Projects
 
 ---
+
+### Course Projects 
+
 [2021 UK Gender Pay Gap](/pdf/sample_presentation.pdf)
-<img src="pdf/421Project-smigbokw.pdf"/>
+[Data Visulization](pdf/421Project-smigbokw.pdf)
 
 ---
 
@@ -19,10 +22,3 @@
 - [Project 5 Title](http://example.com/)
 
 ---
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
