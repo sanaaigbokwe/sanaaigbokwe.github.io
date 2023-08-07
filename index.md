@@ -2,13 +2,14 @@
 
 ---
 
-## Personal Projects
+### Personal Projects
 
 ---
 
 ### Course Projects 
 
-[2021 UK Gender Pay Gap](/pdf/sample_presentation.pdf)
+#### 2021 UK Gender Pay Gap
+
 ![Data Visulization](pdf/421Project-smigbokw.pdf)
 
 ---
