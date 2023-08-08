@@ -5,7 +5,7 @@
 ### Personal Projects
 
 ---
-<img src="images/S-SyrUni.png?raw=true" />
+<img src="images/SU Banner.png?raw=true" />
 
 ### Course Projects 
 
