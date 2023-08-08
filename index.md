@@ -5,9 +5,10 @@
 ### Personal Projects
 
 ---
-<img src="images/SU Banner (1).png?raw=true" />
 
 ### Course Projects 
+
+<img src="images/SU Banner (1).png?raw=true" />
 
 #### 2021 UK Gender Pay Gap
 Analyzed and visualized the gender pay disparity in the United Kingdom in 2021 individually using R and data visualization techniques, such as ggplot2, dplyr, and a geocode API to transform data and create visually compelling graphs and visualizations.
