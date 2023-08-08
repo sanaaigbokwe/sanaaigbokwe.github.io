@@ -10,7 +10,15 @@
 
 <img src="images/SU Banner (1).png?raw=true" />
 
-#### UK Gender Pay Gap Analysis
+#### Covid Patient ICU and Immunosuppressed Risk Predictions - Spring 2023
+In a group project, two students and I utilized PySpark to perform data transformations as a team from a large COVID-19 dataset for machine learning (MLlib) to create and present accurate predictive models for patient ICU admission and immunosuppression risk. My role involved applying regression analysis techniques in PySpark to train and test the accuracy of logistic regression models to determine significant medical factors for ICU admission and immunosuppression. 
+
+As a collective, we presented comprehensive prediction analysis, results, and actionable recommendations to stakeholders (hypothetically, to the Mexican government, hospitals, and persons at risk) upon the implementation of such models to contribute to Covid patient care.
+
+[![](https://img.shields.io/badge/Python-white?style=badge&logo=python&logoColor=%233776AB)](#) [![](https://img.shields.io/badge/Apache%20Spark-white?style=badge&logo=apachespark&logoColor=%23E25A1C
+)](#)
+
+#### UK Gender Pay Gap Analysis - Fall 2022
 In a group project, two students and I performed data cleaning in python on three datasets (approximately about 27,000 values) collected from a United Kingdom open-source database with a small team to conduct extensive exploratory analysis. Utilizing matplotlib and seaborn to observe and create visualizations, we identified patterns significant to gender pay disparities across a wide range of UK companies and industries from 2018 to 2021. 
 
 After research and analysis, we produced a comprehensive report that meticulously documented the code, analysis methodologies, and actionable conclusions, providing a solid foundation for further research and policy-making initiatives.
@@ -18,7 +26,7 @@ After research and analysis, we produced a comprehensive report that meticulousl
 [![](https://img.shields.io/badge/Python-white?style=badge&logo=python&logoColor=%233776AB)](#) [![](https://img.shields.io/badge/Jupyter-white?style=badge&logo=jupyter&logoColor=%23F37626
 )](#)
 
-#### 2021 UK Gender Pay Gap
+#### 2021 UK Gender Pay Gap - Fall 2022
 Independently performed simple data exploration and data visualization to create a visually compelling story about the gender pay disparity in the United Kingdom for 2021 using R and data visualization techniques, such as ggplot2, dplyr, and a geocode API.
 
 [![](https://img.shields.io/badge/R-white?style=badge&logo=R&logoColor=%23276DC3
