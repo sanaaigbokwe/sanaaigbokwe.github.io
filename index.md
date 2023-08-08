@@ -5,7 +5,8 @@
 ### Personal Projects
 
 ---
-<img src="images/SU-logo.png?raw=true" />
+<img src="images/S-SyrUni.png?raw=true" />
+
 ### Course Projects 
 
 #### 2021 UK Gender Pay Gap
