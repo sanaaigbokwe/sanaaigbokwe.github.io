@@ -5,7 +5,7 @@
 ### Personal Projects
 
 ---
-<img src="images/SU Banner.png?raw=true" />
+<img src="images/SU Banner (1).png?raw=true" />
 
 ### Course Projects 
 
