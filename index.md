@@ -33,6 +33,6 @@ Independently performed simple data exploration and data visualization to create
 )](#) [![](https://img.shields.io/badge/Adobe%20Illustrator-white?style=badge&logo=adobeillustrator&logoColor=%23FF9A00)](#)
 ![Data Visualization](images/421Project-smigbokw.jpg)
 
-### KPOP Search Engine - Spring 2022
+#### KPOP Search Engine - Spring 2022
 For the end-of-the-year python project, students were tasked to produce a novel program in Jupyter Notebook utilizing programming skills demonstrated since the beginning of the semester. Requirements for this project included novelty, extensive lines of code (around 300 lines), coding techniques such as APIs, functions, for loops, widgets, and more to create a program that had purpose and functionality. To emphasize the skills I learned with Python and Jupyter Notebook I decided to create a program on a subject I was interested in: Music. To add more novelty I narrowed my focus to Korean Pop and Korean Pop fans as the niche and target of this project. 
 
