@@ -21,53 +21,6 @@ These columns were EmployerName, DiffMeanHourlyPercent, DiffMedianHourlyPercent,
 
 By observing the info for each dataset, we could conclude the size of our datasets and which columns contained null values. For the years 2020 and 2021, there were over 10,000 rows with 2019 having significantly less rows at a bit over 6,900 rows.
 
-```python
-gpg_2021 = pd.read_csv("https://gender-pay-gap.service.gov.uk/viewing/download-data/2021")
-```
-
-```python
-gpg_21 = gpg_2021.drop(["Address", "PostCode", "CompanyNumber", "SicCodes", "ResponsiblePerson", "CompanyLinkToGPGInfo", "CurrentName", "DueDate","EmployerId", "DateSubmitted", "SubmittedAfterTheDeadline" ], axis = 1)
-```
-
-```python
-gpg_20 = pd.read_csv("https://gender-pay-gap.service.gov.uk/viewing/download-data/2020", 
-                     usecols=['DiffMeanBonusPercent',
- 'DiffMeanHourlyPercent',
- 'DiffMedianBonusPercent',
- 'DiffMedianHourlyPercent',
- 'EmployerName',
- 'EmployerSize',
- 'FemaleBonusPercent',
- 'FemaleLowerMiddleQuartile',
- 'FemaleLowerQuartile',
- 'FemaleTopQuartile',
- 'FemaleUpperMiddleQuartile',
- 'MaleBonusPercent',
- 'MaleLowerMiddleQuartile',
- 'MaleLowerQuartile',
- 'MaleTopQuartile',
- 'MaleUpperMiddleQuartile'])
-```
-
-```python
-gpg_19 = pd.read_csv("https://gender-pay-gap.service.gov.uk/viewing/download-data/2019", 
-                     usecols=['DiffMeanBonusPercent',
- 'DiffMeanHourlyPercent',
- 'DiffMedianBonusPercent',
- 'DiffMedianHourlyPercent',
- 'EmployerName',
- 'EmployerSize',
- 'FemaleBonusPercent',
- 'FemaleLowerMiddleQuartile',
- 'FemaleLowerQuartile',
- 'FemaleTopQuartile',
- 'FemaleUpperMiddleQuartile',
- 'MaleBonusPercent',
- 'MaleLowerMiddleQuartile',
- 'MaleLowerQuartile',
- 'MaleTopQuartile',
- 'MaleUpperMiddleQuartile'])
-```
 ## Data Exploration of Employer Size
 Next, we wanted to observe pay disparity based on the employer size. Focusing on the datasets for the years 2019 and 2021, we created visualizations to analyze how employer size changes the average hourly pay for men and women. To create comprehensive visualizations, we decided to use boxen plots that shows the distribution of each employer size value and order it from smallest to largest, with the last value being "Not Provided". To use this variable to analyze pay disparity, we decided to focus on the difference in the average hourly pay, which provides a percentage for each employer indicating a numeric value that is negative or positive. 
 
@@ -102,4 +55,4 @@ sns.boxenplot(data=gpg_19,
              ).set(title='2019 Mean Hourly Pay Based on Employer Size')
 plt.savefig('EmplySize19.pdf')
 ```
-![Final Report](/421Project-smigbokw.jpg)
+
