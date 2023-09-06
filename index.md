@@ -26,6 +26,8 @@ After research and analysis, we produced a comprehensive report that meticulousl
 [![](https://img.shields.io/badge/Python-white?style=badge&logo=python&logoColor=%233776AB)](#) [![](https://img.shields.io/badge/Jupyter-white?style=badge&logo=jupyter&logoColor=%23F37626
 )](#)
 
+[See Final Report with Code and Visualizations](./finalreport_page.html).
+
 #### 2021 UK Gender Pay Gap - Fall 2022
 Independently performed simple data exploration and data visualization to create a visually compelling story about the gender pay disparity in the United Kingdom for 2021 using R and data visualization techniques, such as ggplot2, dplyr, and a geocode API.
 
@@ -36,6 +38,9 @@ Independently performed simple data exploration and data visualization to create
 #### KPOP Search Engine - Spring 2022
 For the end-of-the-year python project, students were tasked to produce a novel program in Jupyter Notebook utilizing programming skills demonstrated since the beginning of the semester. Requirements for this project included novelty, extensive lines of code (around 300 lines), coding techniques such as APIs, functions, for loops, widgets, and more to create a program that had purpose and functionality. To emphasize the skills I learned with Python and Jupyter Notebook I decided to create a program on a subject I was interested in: Music. To add more novelty I narrowed my focus to Korean Pop and Korean Pop fans as the niche and target of this project. 
 
-[See README & Code on Github](https://github.com/sanaaigbokwe/FirstPythonProject)
+[![](https://img.shields.io/badge/Python-white?style=badge&logo=python&logoColor=%233776AB)](#) [![](https://img.shields.io/badge/Jupyter-white?style=badge&logo=jupyter&logoColor=%23F37626
+)](#)
+
+[See Full README & Code on Github](https://github.com/sanaaigbokwe/FirstPythonProject)
 
 <img src="images/0.gif?raw=true"/>
