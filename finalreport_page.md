@@ -88,7 +88,6 @@ sns.boxenplot(data=gpg_21,
              ).set(title='2021 Mean Hourly Pay Based on Employer Size')
 plt.savefig('EmplySize21.pdf')
 ```
-<img src="pdf/download.png?raw=true" />
 
 From looking at the visualization, it appears there are extreme outliers for women, as the negative values represent bias for women. These outliers appear to be more apparent for employer sizes less than 5000. Despite the outliers representing women, the boxen plots show the average mean hourly pay favors men as the median line is above 0.
 
@@ -103,3 +102,4 @@ sns.boxenplot(data=gpg_19,
              ).set(title='2019 Mean Hourly Pay Based on Employer Size')
 plt.savefig('EmplySize19.pdf')
 ```
+![Final Report](/421Project-smigbokw.jpg)
