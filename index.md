@@ -18,6 +18,8 @@ As a collective, we presented comprehensive prediction analysis, results, and ac
 [![](https://img.shields.io/badge/Python-white?style=badge&logo=python&logoColor=%233776AB)](#) [![](https://img.shields.io/badge/Apache%20Spark-white?style=badge&logo=apachespark&logoColor=%23E25A1C
 )](#)
 
+[See Code on Google Colab](https://colab.research.google.com/drive/1LohFeB5OIf85Fa7_xZSTAi8I2A6GqHWH?usp=sharing)
+
 #### UK Gender Pay Gap Analysis - Fall 2022
 In a group project, two students and I performed data cleaning in python on three datasets (approximately about 27,000 values) collected from a United Kingdom open-source database with a small team to conduct extensive exploratory analysis. Utilizing matplotlib and seaborn to observe and create visualizations, we identified patterns significant to gender pay disparities across a wide range of UK companies and industries from 2018 to 2021. 
 
