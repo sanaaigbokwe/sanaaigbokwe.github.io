@@ -1,11 +1,5 @@
 ## Portfolio
 
----
-
-### Personal Projects
-
----
-
 ### Course Projects 
 
 <img src="images/SU Banner (1).png?raw=true" />
