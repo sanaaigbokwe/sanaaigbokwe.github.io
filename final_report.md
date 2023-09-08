@@ -241,7 +241,7 @@ top5_21
 
 
 
-<div>
+<div style="overflow: auto;">
 <style scoped>
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
@@ -255,7 +255,7 @@ top5_21
         text-align: right;
     }
 </style>
-<table border="1" class="dataframe" width="50%">
+<table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
       <th></th>
