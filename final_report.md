@@ -570,7 +570,7 @@ sns.barplot(data=last5_21,
 
 
     
-![png](output_25_1.png)
+<img src="images/output_25_1.png?raw=true" />
     
 
 
@@ -600,7 +600,7 @@ plt.savefig('DiffMedianBar1.pdf')
 
 
     
-![png](output_30_0.png)
+<img src="images/output_30_0.png?raw=true" />
     
 
 
@@ -1211,7 +1211,7 @@ plt.savefig('DiffMedianYear.pdf')
 
 
     
-![png](output_41_0.png)
+<img src="images/output_41_0.png?raw=true" />
     
 
 
@@ -1234,7 +1234,7 @@ sns.boxenplot(data=final,
 
 
     
-![png](output_43_1.png)
+<img src="images/output_43_1.png?raw=true" />
     
 
 
@@ -1260,7 +1260,7 @@ final['DiffMedianHourlyPercent'].plot(kind='hist',
 
 
     
-![png](output_45_1.png)
+<img src="images/output_45_1.png?raw=true" />
     
 
 
@@ -1280,7 +1280,7 @@ plt.savefig('YearDiffMedBonus.pdf')
 
 
     
-![png](output_48_0.png)
+<img src="images/output_48_0.png?raw=true" />
     
 
 
@@ -1652,7 +1652,7 @@ plt.savefig('EmpDiff.pdf')
 
 
     
-![png](output_58_0.png)
+<img src="images/output_58_1.png?raw=true" />
     
 
 
