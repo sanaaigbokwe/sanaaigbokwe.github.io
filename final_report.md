@@ -1,3 +1,7 @@
+---
+layout: anotherpage
+---
+
 # UK Gender Pay Gap Analysis Final Report
 
 Bea Igbokwe, Anusha Ramprasad, Nivedita Ravi
