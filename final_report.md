@@ -201,7 +201,7 @@ plt.savefig('EmplySize21.pdf')
 
 
     
-<img src="images/output_15_0.png"/>
+<img src="images/output_15_0.png?raw=true"/>
     
 
 
@@ -222,7 +222,7 @@ plt.savefig('EmplySize19.pdf')
 
 
     
-<img src="images/output_17_0.png"/>
+<img src="images/output_17_0.png?raw=true"/>
     
 
 
@@ -398,7 +398,7 @@ sns.barplot(data=top5_21,
 
 
     
-<img src="images/output_22_1.png"/>
+<img src="images/output_22_1.png?raw=true"/>
     
 
 
@@ -1683,7 +1683,7 @@ sns.boxenplot(data=final,
 
 
     
-<img src="images/output_62_1.png"/>
+<img src="images/output_62_1.png?raw=true"/>
     
 
 
