@@ -21,6 +21,7 @@ After research and analysis, we produced a comprehensive report that meticulousl
 )](#)
 
 [See Final Report with Code and Visualizations](./final_report.html).
+![462Poster](images/462Project.jpg)
 
 #### 2021 UK Gender Pay Gap - Fall 2022
 Independently performed simple data exploration and data visualization to create a visually compelling story about the gender pay disparity in the United Kingdom for 2021 using R and data visualization techniques, such as ggplot2, dplyr, and a geocode API.
