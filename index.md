@@ -18,7 +18,7 @@ In a group project, two students and I performed data cleaning in python on thre
 After research and analysis, we produced a comprehensive report that meticulously documented the code, analysis methodologies, and actionable conclusions, providing a solid foundation for further research and policy-making initiatives.
 
 [![](https://img.shields.io/badge/Python-white?style=badge&logo=python&logoColor=%233776AB)](#) [![](https://img.shields.io/badge/Jupyter-white?style=badge&logo=jupyter&logoColor=%23F37626
-)](#)
+)](#) [![](https://img.shields.io/badge/Adobe%20Illustrator-white?style=badge&logo=adobeillustrator&logoColor=%23FF9A00)](#)
 
 [See Final Report with Code and Visualizations](./final_report.html).
 ![462Poster](images/462Project.jpg)
