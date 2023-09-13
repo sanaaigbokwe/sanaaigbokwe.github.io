@@ -5,9 +5,7 @@
 <img src="images/SU Banner (1).png?raw=true" />
 
 #### Covid Patient ICU and Immunosuppressed Risk Predictions - Spring 2023
-In a group project, two students and I utilized PySpark to perform data transformations as a team from a large COVID-19 dataset for machine learning (MLlib) to create and present accurate predictive models for patient ICU admission and immunosuppression risk. My role involved applying regression analysis techniques in PySpark to train and test the accuracy of logistic regression models to determine significant medical factors for ICU admission and immunosuppression. 
-
-As a collective, we presented comprehensive prediction analysis, results, and actionable recommendations to stakeholders (hypothetically, to the Mexican government, hospitals, and persons at risk) upon the implementation of such models to contribute to Covid patient care.
+In collaboration with two peers, I engaged in a multifaceted project encompassing data wrangling, exploration, analysis, and machine learning in Python Spark. Our objective was to create predictive models for patient ICU admission and immunosuppression risk using a substantial COVID-19 dataset provided by the Mexican government. My specific role involved applying and fine-tuning regression analysis techniques in PySpark, encompassing model development, training, and rigorous testing. The outcome was remarkable, with my logistic regression model achieving a 91.3% accuracy for ICU admission predictions and an outstanding 95.8% accuracy for identifying immunosuppressed individuals. Our presentation included comprehensive prediction analysis, actionable recommendations, and explanations of key metrics like precision, recall, and area under the ROC curve. We encountered challenges, such as shifting our focus from intubation prediction due to low correlation with immunosuppressive disorders, demonstrating our adaptability and commitment to robust results.
 
 [![](https://img.shields.io/badge/Python-white?style=badge&logo=python&logoColor=%233776AB)](#) [![](https://img.shields.io/badge/Apache%20Spark-white?style=badge&logo=apachespark&logoColor=%23E25A1C
 )](#)
